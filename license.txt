@@ -1,0 +1,80 @@
+Original url of license: https://market.sencha.com/sencha_extension_license
+
+Sencha Extension License
+ SENCHA EXTENSION LICENSE AGREEMENT - VERSION 1.1 (available only to software listed in the Sencha Market)
+
+ THIS DOCUMENT IS A LEGAL AGREEMENT (the " Agreement") BETWEEN SENCHA INC. ("We," "Us") AND YOU OR THE ORGANIZATION ON WHOSE BEHALF YOU ARE UNDERTAKING THE LICENSE DESCRIBED BELOW ("You") IN RELATION TO THE SENCHA EXT JS, SENCHA GXT AND/OR SENCHA TOUCH SOFTWARE (the “Software”), BY INCORPORATING ALL OR ANY PORTION OF THE SOFTWARE INTO YOUR SOFTWARE PRODUCT (the “Extension”) UNDER THIS LICENSE, YOU ACCEPT THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS AGREEMENT, DO NOT PROCEED WITH THE INCORPORATION OF ANY PORTION OF THE SOFTWARE INTO YOUR EXTENSION UNDER THIS LICENSE. THE SOFTWARE IS PROTECTED BY UNITED STATES COPYRIGHT LAWS AND INTERNATIONAL COPYRIGHT LAWS, AS WELL AS OTHER INTELLECTUAL PROPERTY LAWS AND TREATIES. THE SOFTWARE IS LICENSED, NOT SOLD.
+
+ THIS AGREEMENT DESCRIBES YOUR RIGHTS WITH RESPECT TO THE SOFTWARE AND ITS COMPONENTS.
+
+ 1. OWNERSHIP, LICENSE GRANT
+
+ This is a Agreement and not an agreement for sale. We reserve ownership of all intellectual property rights inherent in or relating to the Software, which include, but are not limited to, all copyright, patent rights, all rights in relation to registered and unregistered trademarks (including service marks), confidential information (including trade secrets and know-how) and all rights other than those expressly granted by this Agreement.
+
+ Subject to the terms and conditions of this Agreement, We grant to You a revocable, non-transferable, non-exclusive license (i) for Designated User(s) (as defined below) within Your organization to install and use the Software solely for Your internal development and testing purposes to develop the Extension, and (ii) for You to reproduce and distribute unlimited copies of the Software, solely as inseparably integrated with Your Extension and where the Software is only capable of being used with Your Extension. This license is not sublicensable except as explicitly set forth herein. "Designated User(s)" shall mean Your employee(s) acting within the scope of their employment or Your consultant(s) or contractor(s) acting within the scope of the services they provide for You or on Your behalf.
+
+ While You retain all rights to any original work authored by You as part of the Extension, We continue to own all copyright and other intellectual property rights in the Software.
+
+ 2. REGISTRATION
+
+ You are required to submit a completed application (the “Application”) either via Our website (the “Site”) or by submitting a hard copy to Us and agree to the Market Listing Agreement (“Listing Agreement”) as posted on Our Site. You are required to include a “powered by Sencha” logo on all documentation distributed with the Extension and as part of the credits or in the “about” section of the Extension.
+
+ You must enter into an agreement (“End User Agreement”) prior to such distribution with each customer or end user that obtains a copy of the Extension that contains terms and conditions which are substantially similar to, and at least as protective of Us as, the terms and conditions set forth herein, including, without limitation, the restrictions set forth in Section 3 below, the disclaimers of all warranties in Section 5 and disclaimers of all consequential damages in Section 6 and disclaimers of all direct damages in favor of Us; except that such provisions shall refer to the Extension.
+
+ You are required to submit the Extension and the End User Agreement (as defined below) to Us at least thirty (30) days prior to any planned distribution of the Extension for Our review and approval and We will have the sole discretion of whether or not to provide such prior written approval. Notwithstanding anything to the contrary in this Agreement, in no event shall You exercise the license rights herein without first obtaining Our prior written approval of the Extension and the End User Agreement. The Extension may not change in any material regard from the Extension submitted on your Application, without Our written approval.
+
+ 3. PROHIBITED USES
+
+ You may not, without Our prior written consent, (a) redistribute the Software other than by including a portion thereof within the Extension, which must add substantial value to the Software and have substantially different functionality than the Software. You are explicitly not allowed to distribute the Extension as or as part of any product that can be described as a an application builder or a website builder; (b) deploy the Software or the Extension in any production environment, except under independent license from Us; (c) modify the Software source code (“Original Code”) to develop a separately maintained source code program (the “Forked Software”) so that such modifications are not automatically integrated with the Original Code or so that the Forked Software has features not present in the Original Code; (d) use the Software in any manner to assist or take part in the development, marketing, or sale of a product with functionality similar to or potentially competitive with the Software; (e) use the Software, or allow the transfer, transmission, export, or re-export of the Software or portion thereof in violation of any export control laws or regulations administered by the U.S. Commerce Department, OFAC, or any other government agency; (f) modify, remove, or obstruct any copyright or other proprietary rights statements or notices contained within the Software; (g) to redistribute any part of the Software documentation; (h) distribute the Extension except pursuant to the End User Agreement; or (h) allow, assist or permit others to do any of the foregoing. You may not change or remove the copyright notice from any of the files included in the Software.
+
+ 4. TERM AND TERMINATION
+
+ The term of this Agreement shall commence on the date your Application is approved and shall continue for an initial term of one (1) year (the “Initial Term”) unless previously terminated in accordance with the terms hereof. Unless a party notifies the other party in writing at least 30 days prior to the expiration of the Term (including any renewal term) of this Agreement of its decision not to renew this Agreement, this Agreement shall automatically renew for successive one-year periods (“Term Extensions”). The Initial Term and subsequent Term Extensions, if any, will be referred to collectively as the “Term”.
+
+ This Agreement and Your right to use the Software will terminate immediately without notice if You fail to comply with the terms and conditions of this Agreement. We may terminate this Agreement at any time for convenience upon thirty (30) days’ written notice to You. Upon termination, You agree to immediately cease using and destroy the Software or Modifications, including all accompanying documents. The provisions of sections 4, 5, 6, 7, 8, 9, 10 and 12 will survive any termination of this Agreement. License rights with respect to any Extension that has been distributed to end users shall not terminate but shall continue in perpetuity.
+
+ 5. DISCLAIMER OF WARRANTIES
+
+ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE AND OUR SUPPLIERS DISCLAIM ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND TITLE AND NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE. WE DO NOT GUARANTEE THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU ACKNOWLEDGE THAT IT IS NOT TECHNICALLY PRACTICABLE FOR US TO DO SO.
+
+ 6. LIMITATION OF LIABILITIES
+
+ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE OR OUR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION OR ANY OTHER PECUNIARY LAW) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, OUR ENTIRE LIABILITY UNDER ANY PROVISION OF THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE.
+
+ 7. NON-ASSERTION
+
+ You hereby agree on behalf of Yourself and Your successors and assigns not to Assert against Us and Our licensees, both direct and indirect, including without limitation, Our resellers, value added resellers, distributors and end users, any claim that any products or services developed or distributed by Us infringe or misappropriate any intellectual property right owned or exclusively licensed by You or any of Your affiliates to the extent based on Your rights to the Extension. “Assert” means to bring an action before any legal, judicial, arbitration, administrative, executive or other type of body or tribunal that has or claims to have authority to adjudicate such action in whole or part. For the avoidance of doubt, the foregoing covenant precludes any suits or assertions against Us under a theory of infringement or misappropriation, or any similar theory based on Our and Our licensees, both direct and indirect, including without limitation, its distributors, resellers, value added resellers, and end users’, sale, distribution or use of products or services developed or distributed by You based on the Extension. You acknowledge that this obligation is critical to Us and as a condition of this Agreement You agree to require Your successors and assigns to agree in writing to be bound by the covenants of this Section.
+
+ 8. NON-DISCLOSURE
+
+ The parties agree to maintain the confidentiality of any proprietary information received by the other party during, or prior to entering into, this Agreement that a party should know is confidential or proprietary based on the circumstances surrounding the disclosure, including, without limitation, non-public technical and business information (“Confidential Information”) for a period of three (3) years after the termination of this Agreement. This section shall not apply to any publicly available or independently developed information. The receiving party of any Confidential Information of the other party agrees not to use said Confidential Information for any purpose except as necessary to fulfill its obligations and exercise its rights under this Agreement. The receiving party shall protect the secrecy of and avoid disclosure and unauthorized use of the disclosing party’s Confidential Information to the same degree that it takes to protect its own confidential information and in no event less than reasonable care.
+
+ 9. VERIFICATION
+
+ We or a certified auditor acting on Our behalf, may, upon its reasonable request and at its expense, audit You with respect to the use of the Software. Such audit may be conducted by mail, electronic means or through an in-person visit to Your place of business. Any such in-person audit shall be conducted during regular business hours at Your facilities and shall not unreasonably interfere with Your business activities. We shall not remove, copy, or redistribute any electronic material during the course of an audit. If an audit reveals that You are using the Software in a way that is in material violation of the terms of the Agreement, then You shall pay Our reasonable costs of conducting the audit. In the case of a material violation, You agree to pay Us any amounts owing that are attributable to the unauthorized use. In the alternative, We reserve the right, at Our sole option, to terminate the licenses for the Software.
+
+ 10. SUPPORT AND UPDATES
+
+ You are not entitled to any support for the Software under this Agreement. Minor version updates to the Software (i.e. versions identified as follows (X.Y, X.Y+1) and major version updates (i.e. X.Y, X+1.Y) are generally released publicly subject to license terms, whereas bug fix updates to the Software (X.Y.Z, X.Y.Z+1) are generally released only under support and subject to license terms.
+
+ 11. MISCELLANEOUS
+
+ The license granted herein applies only to the version of the Software available for download in connection with the terms of this Agreement. Any previous or subsequent license granted to You for use of the Software shall be governed by the terms and conditions of the agreement offered for that version of the Software. You agree that you will comply with all applicable laws and regulations with respect to the Software, including without limitation all export and re-export control laws and regulations.
+
+ While distributing the Extension, You may choose to offer acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this Agreement. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on our behalf. You agree to indemnify, defend, and hold Us harmless from and against any liability incurred by, or claims asserted against, Us (i) by reason of Your accepting any such support, warranty, indemnity or additional liability; or (ii) arising out of the use, reproduction or distribution of the Extension, except to the extent such claim is solely based on the inclusion of the Software therein.
+
+ You agree to be identified as a customer of ours and You agree that We may refer to You by name, trade name and trademark, if applicable, and may briefly describe Your business on our Market and in our marketing materials and web site.
+
+ You may not assign this Agreement without Our prior written consent, which will not be unreasonably withheld. This Agreement will inure to the benefit of Our successors and assigns.
+
+ You acknowledge that this Agreement, together with the Listing Agreement and Application, is complete and is the exclusive representation of our agreement. No oral or written information given by Us or on our behalf shall create a warranty or collateral contract, or in any way increase the scope of this Agreement in any way, and You may not rely on any such oral or written information.
+
+ There are no implied licenses or other implied rights granted under this Agreement, and all rights, save for those expressly granted hereunder, shall remain with Us and our licensors. In addition, no licenses or immunities are granted to the combination of the Software and/or Modifications, as applicable, with any other software or hardware not delivered by Us to You under this Agreement.
+
+ If any provision in this Agreement shall be determined to be invalid, such provision shall be deemed omitted; the remainder of this Agreement shall continue in full force and effect. If any remedy provided is determined to have failed for its essential purpose, all limitations of liability and exclusions of damages set forth in this Agreement shall remain in effect.
+
+ This Agreement may be modified only by a written instrument signed by an authorized representative of each party.
+
+ This Agreement is governed by the law of the State of California, United States (notwithstanding conflicts of laws provisions), and all parties irrevocably submit to the jurisdiction of the courts of the State of California and further agree to commence any litigation which may arise hereunder in the state or federal courts located in the judicial district of Santa Clara County, California, US.
+
+ If the Software or any related documentation is licensed to the U.S. government or any agency thereof, it will be deemed to be "commercial computer software" or "commercial computer software documentation," pursuant to DFAR Section 227.7202 and FAR Section 12.212. Any use of the Software or related documentation by the U.S. government will be governed solely by the terms of this Agreement.
