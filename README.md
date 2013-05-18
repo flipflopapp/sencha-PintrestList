@@ -5,7 +5,7 @@ This is an attempt to make a Pintrest-like list for Sencha Touch (2).
 
 Demo page: http://flipflopapp.github.io/sencha-PintrestList/example/index.html
 
-The demo page loads slowly, because we have not optimized the code (or packaged it).
+Note: The demo page loads slowly because we have not optimized the code (or packaged it).
 
 Getting Started
 ---------------
