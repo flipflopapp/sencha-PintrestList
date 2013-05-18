@@ -14,61 +14,61 @@ For using this widget in your application, follow below steps :-
  
 2. Add following to app.js (or your root js file).
 
-        Ext.Loader.setPath('Ext.ux', './src/ux');
+    Ext.Loader.setPath('Ext.ux', './src/ux');
 
 3. Add following CSS file ( src/ux/pintrest/resources/css/pintrest.css ) to list of CSS files. We have done this in app.json .
 
 
-        "css": [
-          {
-            "path": "./src/ux/pintrest/resources/css/pintrest.css",
-            "update": "full"
-          },
-          ...
-        ]
+    "css": [
+      {
+        "path": "./src/ux/pintrest/resources/css/pintrest.css",
+        "update": "full"
+      },
+      ...
+    ]
 
 4. In the view where you want to include the widget, add a require.
  
-        requires: [
-          'Ext.ux.pintrest.dataview.Pintrest',
-          'Pintrest.view.MyPintrestItem', // only if we would like to customize the look of list items
-          ...
-        ],
+    requires: [
+      'Ext.ux.pintrest.dataview.Pintrest',
+      'Pintrest.view.MyPintrestItem', // only if we would like to customize the look of list items
+      ...
+    ],
 
 5. In the same view, define a Pintrest like list as done in example,
 
-        config: {
-          ...
-          productList: {
-            id: 'productlist',
-            defaultType: 'mypinitem',
-            top: 0,
-            bottom: 0,
-            left: 5,
-            right: 0,
-            disableSelection: true,
-            maxNumColumns: 4,
-            minNumColumns: 2,
-            maxColumnWidth: 350,
-            minSideSpacing: 0,
-            columnMargin: 5,
-            rowMargin: 5
-          },
-          ...
-        },
+    config: {
+      ...
+      productList: {
+        id: 'productlist',
+        defaultType: 'mypinitem',
+        top: 0,
+        bottom: 0,
+        left: 5,
+        right: 0,
+        disableSelection: true,
+        maxNumColumns: 4,
+        minNumColumns: 2,
+        maxColumnWidth: 350,
+        minSideSpacing: 0,
+        columnMargin: 5,
+        rowMargin: 5
+      },
+      ...
+    },
 
-        applyProductList: function(config) {
-          var productList = Ext.factory (config, Ext.Pintrest, this.getProductList());
-          productList.element.on ( 'tap', this.addProductToCart, this );
-          return productList;
-        },
-        ...
+    applyProductList: function(config) {
+      var productList = Ext.factory (config, Ext.Pintrest, this.getProductList());
+      productList.element.on ( 'tap', this.addProductToCart, this );
+      return productList;
+    },
+    ...
 
 6. If we are interested in customizing the look of items in Pintrest interface, please check how we have done it in,
 
-        example/app/view/MyPintrestItem.js
+    example/app/view/MyPintrestItem.js
 
-   In the example, we have added a caption on the top with some of the items (2 for 1) by extending the pintrest item.
+In the example, we have added a caption on the top with some of the items (2 for 1) by extending the pintrest item.
 
 
 Attributes of Pintrest Like List
