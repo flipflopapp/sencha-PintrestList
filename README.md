@@ -76,13 +76,13 @@ Attributes of Pintrest Like List
 
 The widget is derived from Ext.dataview.List . Most of the attributes are same. Some new attributes, specific to this widget are as follows.
 
-        defaultType (default pinitem) = PinItem class (can be overridden to create a custom class)
-        maxNumColumns (default 4) = Maximum number of columns
-        minNumColumns (default 2) = Minimum number of columns
-        maxColumnWidth(default 150) = Maximum width of each column
-        minSideSpacing (default 75) = Column width on the sides of Pintrest like list
-        columnMargin (default 0) = Empty spacing between columns 
-        rowMargin (default 0) = Empty spacing between rows
+    defaultType (default pinitem) = PinItem class (can be overridden to create a custom PinItem)
+    maxNumColumns (default 4) = Maximum number of columns (when window width is more)
+    minNumColumns (default 2) = Minimum number of columns (when window width is less)
+    maxColumnWidth(default 150) = Maximum width of each column or each PinItem
+    minSideSpacing (default 75) = Column width on the sides of Pintrest like list
+    columnMargin (default 0) = Empty spacing between columns
+    rowMargin (default 0) = Empty spacing between rows
 
 Notes
 -----
