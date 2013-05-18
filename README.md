@@ -12,11 +12,11 @@ For using this widget in your application, follow below steps :-
 
 1. Copy src folder to your app. The widget is located in src/ux/pintrest .
  
-2. Add following to app.js (or your root js file).
+2. Add following to app.js (or your root js file)::
 
     Ext.Loader.setPath('Ext.ux', './src/ux');
 
-3. Add following CSS file ( src/ux/pintrest/resources/css/pintrest.css ) to list of CSS files. We have done this in app.json .
+3. Add following CSS file ( src/ux/pintrest/resources/css/pintrest.css ) to list of CSS files. We have done this in app.jsoni::
 
 
     "css": [
@@ -27,7 +27,7 @@ For using this widget in your application, follow below steps :-
       ...
     ]
 
-4. In the view where you want to include the widget, add a require.
+4. In the view where you want to include the widget, add a require::
  
     requires: [
       'Ext.ux.pintrest.dataview.Pintrest',
@@ -35,7 +35,7 @@ For using this widget in your application, follow below steps :-
       ...
     ],
 
-5. In the same view, define a Pintrest like list as done in example,
+5. In the same view, define a Pintrest like list as done in example::
 
     config: {
       ...
@@ -56,7 +56,7 @@ For using this widget in your application, follow below steps :-
       },
       ...
     },
-
+    
     applyProductList: function(config) {
       var productList = Ext.factory (config, Ext.Pintrest, this.getProductList());
       productList.element.on ( 'tap', this.addProductToCart, this );
@@ -64,7 +64,7 @@ For using this widget in your application, follow below steps :-
     },
     ...
 
-6. If we are interested in customizing the look of items in Pintrest interface, please check how we have done it in,
+6. If we are interested in customizing the look of items in Pintrest interface, please check how we have done it in::
 
     example/app/view/MyPintrestItem.js
 
@@ -74,7 +74,7 @@ In the example, we have added a caption on the top with some of the items (2 for
 Attributes of Pintrest Like List
 --------------------------------
 
-The widget is derived from Ext.dataview.List . Most of the attributes are same. Some new attributes, specific to this widget are as follows,
+The widget is derived from Ext.dataview.List . Most of the attributes are same. Some new attributes, specific to this widget are as follows::
 
     defaultType (default pinitem) = PinItem class (can be overridden to create a custom class)
     maxNumColumns (default 4) = Maximum number of columns
@@ -83,5 +83,14 @@ The widget is derived from Ext.dataview.List . Most of the attributes are same. 
     minSideSpacing (default 75) = Column width on the sides of Pintrest like list
     columnMargin (default 0) = Empty spacing between columns 
     rowMargin (default 0) = Empty spacing between rows
+
+Notes
+-----
+
+So far this has been tested on:
+
+  * iOS 4s 
+  * Android 4.0.3
+  * Android 2.3.3
 
 Hope you enjoy using the widet. 
