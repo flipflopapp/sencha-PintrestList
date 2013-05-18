@@ -1,0 +1,32 @@
+.x-pintrest-list {
+    background: none !important; //#FEFEFE !important; 
+}
+
+.x-pintrest-list .x-list-item {
+    background: #FEFEFE !important; 
+}
+
+.x-pintrest-list .x-list-item .x-list-item-inner {
+   padding: 15px 15px 15px 15px !important;
+   box-shadow: 0 1px 3px rgba(34,25,25,0.4) !important;
+   -webkit-box-shadow: 0 1px 3px rgba(34,25,25,0.4) !important;
+   border: 1px solid #FAFAFA !important; 
+}
+
+.x-pintrest-item-image > img {
+    width : 100% !important; 
+    height: auto !important;
+}
+
+.x-pintrest-item-caption { 
+    text-align: center;
+    background-image: -webkit-gradient(radial, center center, 0, center center, 480, color-stop(0, #FFFFFF), color-stop(1, #474646));
+    /* background-image: radial-gradient(ellipse farthest-corner at center, #FFFFFF 0%, #474646 100%); */
+}
+
+/* implement using SASS
+.x-pintrest-list .x-list-item .x-list-footer-wrap {
+    border-bottom: none !important;
+}
+*/
+     

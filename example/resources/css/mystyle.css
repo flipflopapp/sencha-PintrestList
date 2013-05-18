@@ -1,0 +1,5 @@
+.x-pintrest-item-offer {
+    text-align: center;
+    background-image: -webkit-gradient(radial, center center, 0, center center, 480, color-stop(0, #FFFFFF), color-stop(1, #474646));
+    /* background-image: radial-gradient(ellipse farthest-corner at center, #FFFFFF 0%, #474646 100%); */
+}
