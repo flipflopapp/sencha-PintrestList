@@ -33,7 +33,7 @@ Ext.define('Pintrest.view.Main', {
             disableSelection: true,
             maxNumColumns: 4,
             minNumColumns: 2,
-            maxColumnWidth: 350,
+            maxColumnWidth: 200,
             minSideSpacing: 0,
             columnMargin: 5,
             rowMargin: 5
