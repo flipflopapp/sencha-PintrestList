@@ -3,7 +3,9 @@ Pinterest Like List
 
 This is an attempt to make a Pintrest-like list for Sencha Touch (2). 
 
-We have not yet uploaded the demo online, but there is a demo available in the examples folder.
+Demo page: http://flipflopapp.github.io/sencha-PintrestList/example/index.html
+
+The demo page loads slowly, because we have not optimized the code (or packaged it).
 
 Getting Started
 ---------------
